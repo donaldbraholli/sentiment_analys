@@ -1,0 +1,12 @@
+streamlit
+pandas
+plotly
+requests
+beautifulsoup4
+transformers
+accelerate
+sentencepiece
+protobuf
+torch
+torchvision
+torchaudio
